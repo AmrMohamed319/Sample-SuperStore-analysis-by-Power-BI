@@ -72,3 +72,7 @@ This project offers a detailed and flexible analysis of the Sample Superstore da
 2. **Load into Power BI**: Import the dataset into Power BI.
 3. **Dashboard Creation**: Use the dataset to create visuals as described in the project details.
 4. **Analysis**: Utilize the dashboards for deep and flexible analysis of the data.
+![Picture1](https://github.com/user-attachments/assets/a7befde4-75d7-4cf3-88a8-a932a6a617c4)
+![Capture2](https://github.com/user-attachments/assets/eb6ef6f7-8afc-45b1-958f-50cc25c5d771)
+![Capture](https://github.com/user-attachments/assets/4b303c6e-5cf8-43df-9a40-a1919960c67e)
+
